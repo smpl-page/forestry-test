@@ -45,3 +45,5 @@ fields:
       labelField: 
     label: menu item
   label: Menu
+pages:
+- content/about/_index.md
