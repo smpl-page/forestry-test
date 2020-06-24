@@ -6,7 +6,7 @@ author_image: images/about/author.jpg
 author_signature: images/about/signature.png
 menu:
   menu_item:
-  - item_name: monkey soup
+  - item_name: monkey soups
     item_description: no monkeys
     item_price: "$14"
   - item_name: tiger belly
