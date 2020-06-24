@@ -17,3 +17,31 @@ fields:
 - type: file
   name: author_signature
   label: author_signature
+- name: menu
+  type: field_group
+  config: {}
+  fields:
+  - name: menu_item
+    type: field_group_list
+    fields:
+    - name: item_name
+      type: text
+      config:
+        required: false
+      label: item name
+    - name: item_description
+      type: text
+      config:
+        required: false
+      label: item description
+    - name: item_price
+      type: text
+      config:
+        required: false
+      label: item price
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: menu item
+  label: Menu
