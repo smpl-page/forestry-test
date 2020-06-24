@@ -6,15 +6,15 @@ author_image: images/about/author.jpg
 author_signature: images/about/signature.png
 menu:
   menu_item:
-  - item_name: berg delight
-    item_description: today's special!
-    item_price: "$19"
-  - item_name: tiger belly
-    item_description: no tigers
-    item_price: "$57"
   - item_name: monkey soup
     item_description: no monkeys
     item_price: "$14"
+  - item_name: tiger belly
+    item_description: no tigers
+    item_price: "$57"
+  - item_name: berg delight
+    item_description: today's special!
+    item_price: "$19"
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
