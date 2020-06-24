@@ -4,6 +4,21 @@ date: 2019-05-12T12:14:34+06:00
 description: "This is meta description."
 author_image : "images/about/author.jpg"
 author_signature : "images/about/signature.png"
+work_process:
+  enable : true
+  title : "Work Process"
+  item:
+  - title : "Research and Plan"
+    icon : "images/icons/plan.png"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+  - title : "Design and Develop"
+    icon : "images/icons/design.png"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+  - title : "Deliver"
+    icon : "images/icons/print.png"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
